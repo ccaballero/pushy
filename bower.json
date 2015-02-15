@@ -1,11 +1,11 @@
 {
-  "name": "pushy",
+  "name": "pushy-dyn",
   "version": "0.9.2",
-  "homepage": "https://github.com/christophery/pushy",
+  "homepage": "https://github.com/ccaballero/pushy",
   "authors": [
     "christophery <@cmyee>"
   ],
-  "description": "Pushy is a responsive off-canvas navigation menu using CSS transforms & transitions.",
+  "description": "The classical pushy with addition of dynamic construction.",
   "main": ["js/pushy.js", "css/pushy.css"],
   "keywords": [
     "jquery",
